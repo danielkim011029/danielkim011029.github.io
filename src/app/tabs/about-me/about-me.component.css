@@ -1,0 +1,28 @@
+.profile {
+    color: white;
+    padding-left: 50vh;
+    padding-top: 15vh;
+    display: flex;
+}
+
+.profile-pic {
+    width: 35vh;
+}
+
+.content {
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+
+
+/* .heading {
+    display: flex;
+} */
+
+.content h1 {
+    font-size: 35px;
+}
+
+.content p {
+    font-size: 25px;
+}

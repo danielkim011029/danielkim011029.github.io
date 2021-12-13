@@ -1,0 +1,10 @@
+.skills {
+    margin-top: 4vh;
+    text-align: center;
+    color: white;
+}
+
+.info mat-icon {
+    padding-left: 15px;
+    padding-top: 5px;
+}
